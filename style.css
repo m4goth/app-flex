@@ -1,0 +1,33 @@
+body {
+    font-family: Normal;
+    background-color: rgb(41, 41, 41);
+}
+
+
+h1 {
+    font-family: Normal;
+    color: #ffffff;
+}
+
+h2 {
+    font-family: Normal;
+    color: #ffffff;
+}
+
+.imagem {
+    text-align: center;
+}
+
+input {
+    display: block;
+    padding: 2px;
+    margin-top: 2px;
+    font-size: 1.3em;
+    color: #000000;
+    font-family: Normal;
+}
+
+button {
+    padding: 2px;
+    color: #ffffff;
+}
